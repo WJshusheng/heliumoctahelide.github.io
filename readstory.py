@@ -2,6 +2,9 @@ import json
 import os
 import re
 
+# 新的操作：musicvolume，出现于act13中
+# character显示多个人物时其中之一可以为空，这需要修改浏览器中的逻辑；目前先暂时改掉
+
 story_variables = {
   "axia_name" : "小小小天使",
   "bg_width" : 0.5,
@@ -685,19 +688,25 @@ for filename in os.listdir("storys\\TextAsset"):
             temp = get_paras(line)
             if re.findall(r'name=\"(.*?)\"', line):
                 oldimgname = re.findall(r'name=\"(.*?)\"', line)[0].strip().lower()
-                if oldimgname.count('_') == 3:
-                    imgname = oldimgname if '#' not in oldimgname else oldimgname[:-3] + oldimgname[-1]
+                #if oldimgname.count('_') == 3: 
+                #if oldimgname[-1].isdigit():
+                if "#" in oldimgname:
+                    imgname = oldimgname.replace("#","_") if not oldimgname[-3].isdigit() else oldimgname[:-3] + oldimgname[-1]
+                    #imgname = oldimgname if '#' not in oldimgname else oldimgname[:-3] + oldimgname[-1]
                 else:
-                    imgname = oldimgname.replace("#","_")
+                    imgname = oldimgname if oldimgname[-1].isdigit() else oldimgname + "_1"
                 if imgname not in usedimg:
                     usedimg.append(imgname)
                 temp=temp.replace(oldimgname, imgname)
             if re.findall(r'name2=\"(.*?)\"', line):
                 oldimgname2 = re.findall(r'name2=\"(.*?)\"', line)[0].strip().lower()
-                if oldimgname2.count('_') == 3:
-                    imgname2 = oldimgname2 if '#' not in oldimgname2 else oldimgname2[:-3] + oldimgname2[-1]
+                #if oldimgname2.count('_') == 3:
+                #if oldimgname2[-1].isdigit():
+                if "#" in oldimgname2:
+                    imgname2 = oldimgname2.replace("#","_") if not oldimgname2[-3].isdigit() else oldimgname2[:-3] + oldimgname2[-1]
+                    #imgname = oldimgname if '#' not in oldimgname else oldimgname[:-3] + oldimgname[-1]
                 else:
-                    imgname2 = oldimgname2.replace("#","_")
+                    imgname2 = oldimgname2 if oldimgname2[-1].isdigit() else oldimgname2 + "_1"
                 if imgname2 not in usedimg:
                     usedimg.append(imgname2)
                 temp=temp.replace(oldimgname2, imgname2)

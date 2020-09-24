@@ -2,7 +2,7 @@
  * @Author: dx3906
  * @Date: 2019-11-14 17:24:20
  * @LastEditors: dx3906
- * @LastEditTime: 2020-08-25 22:39:25
+ * @LastEditTime: 2020-09-24 19:28:29
  -->
 # 《明日方舟》剧情回放
 
@@ -10,46 +10,23 @@
 
 相当多的内容未经测试。如果在使用中遇到问题，你可以在[Github页面](https://github.com/HeliumOctahelide/heliumoctahelide.github.io)提交Issue，或在NGA论坛联系作者[@\_江天万里霜\_]。
 
+*作者去当社畜了，没法按时更新
 
-## 密林悍将归来 
+## 踏寻往昔之风
 
-RI-1 高空坠物：[[前]](./canvas.html?012-1beg)，[[后]](./canvas.html?012-1end) 
+[FA-ST1 归处](./canvas.html?013-1)
 
-RI-2 粗细有别：[[前]](./canvas.html?012-2beg)，[[后]](./canvas.html?012-2end)
+[FA-ST2 域外同族](./canvas.html?013-2)
 
-RI-3 往昔：[[前]](./canvas.html?012-3beg)，[[后]](./canvas.html?012-3end)
+[FA-ST3 不知返](./canvas.html?013-3)
 
-RI-4 机兽咆哮：[[前]](./canvas.html?012-4beg)，[[后]](./canvas.html?012-4end)
+[FA-ST4 回首](./canvas.html?013-4)
 
-[RI-ST-1 悍将之心](./canvas.html?012-st1)
+[FA-ST5 四月的歌](./canvas.html?013-5)
 
-RI-5 各有所长：[[前]](./canvas.html?012-5beg)，[[后]](./canvas.html?012-5end)
+[FA-ST6 交错光影](./canvas.html?013-6)
 
-RI-6 邂逅：[[前]](./canvas.html?012-6beg)，[[后]](./canvas.html?012-6end)
-
-[RI-ST-2 休息时间](./canvas.html?012-st2)
-
-RI-7 有客先来：[[前]](./canvas.html?012-7beg)，[[后]](./canvas.html?012-7end)
-
-RI-8 嘉维尔之拳：[[前]](./canvas.html?012-8beg)，[[后]](./canvas.html?012-8end)
-
-RI-9 走出密林：[[前]](./canvas.html?012-9beg)，[[后]](./canvas.html?012-9end)
-
-RI-EX-1：[[后]](./canvas.html?012-e-1end)
-
-## 刻俄柏的灰蕈迷境
-
-[引子](./canvas.html?012-entry)
-
-[结局1](./canvas.html?012-ending1)
-
-[结局2](./canvas.html?012-ending2)
-
-[结局3](./canvas.html?012-ending3)
-
-## 火蓝之心 新剧情
-
-[OF-ST6 邂逅潮声](./canvas.html?02-s6)
+[FA-ST7 天空的故事](./canvas.html?013-7)
 
 ## 往期活动剧情
 
@@ -107,6 +84,8 @@ OF-7 一锤定音：[[前](./canvas.html?02-7beg)]，[[后](./canvas.html?02-7en
 OF-8 汐斯塔狂想曲：[[前](./canvas.html?02-8beg)]，[[后](./canvas.html?02-8end)]
 
 [OF-ST5 此生挚爱](./canvas.html?02-s5)
+
+[OF-ST6 邂逅潮声](./canvas.html?02-s6)
 
 #### 额外节目
 
@@ -200,7 +179,7 @@ CB-10 1:11A.M. ：[[前](./canvas.html?05-10beg)]，[[后](./canvas.html?05-10en
 
 [荒芜行动说明](./canvas.html?rune2)
 
-### 断罪者活动剧情
+### 愚人节剧情
 
 [电车难题](./canvas.html?fool)
 
@@ -224,19 +203,19 @@ DM-8 离散：[[前](./canvas.html?09-6beg)]，[[后](./canvas.html?09-6end)]
 
 ### 乌萨斯的孩子们
 
-[SV-ST1 古米：习惯](./canvas.html?010-1)
+[SV-ST1 习惯](./canvas.html?010-1)
 
-[SV-ST2 真理：被选择的](./canvas.html?010-2)
+[SV-ST2 被选择的](./canvas.html?010-2)
 
-[SV-ST3 凛冬：在梦中相遇](./canvas.html?010-3)
+[SV-ST3 在梦中相遇](./canvas.html?010-3)
 
-[SV-ST4 早露：表里不一](./canvas.html?010-4)
+[SV-ST4 表里不一](./canvas.html?010-4)
 
-[SV-ST5 烈夏：胡言秘语](./canvas.html?010-5)
+[SV-ST5 胡言秘语](./canvas.html?010-5)
 
-[SV-ST6 总集篇：一切照常](./canvas.html?010-6)
+[SV-ST6 一切照常](./canvas.html?010-6)
 
-[SV-ST7 小警察：在春天之前](./canvas.html?010-7)
+[SV-ST7 在春天之前](./canvas.html?010-7)
 
 ### 沃伦姆德的薄暮
 
@@ -263,6 +242,42 @@ TW-8 月光沉沦：[[前](./canvas.html?011-8beg)]，[[后](./canvas.html?011-8
 TW-S-1 三座巨像：[[后](./canvas.html?011-sub1-1)]
 
 TW-S-2 一束哀悼：[[后](./canvas.html?011-sub1-2)]
+
+### 密林悍将归来 
+
+RI-1 高空坠物：[[前]](./canvas.html?012-1beg)，[[后]](./canvas.html?012-1end) 
+
+RI-2 粗细有别：[[前]](./canvas.html?012-2beg)，[[后]](./canvas.html?012-2end)
+
+RI-3 往昔：[[前]](./canvas.html?012-3beg)，[[后]](./canvas.html?012-3end)
+
+RI-4 机兽咆哮：[[前]](./canvas.html?012-4beg)，[[后]](./canvas.html?012-4end)
+
+[RI-ST-1 悍将之心](./canvas.html?012-st1)
+
+RI-5 各有所长：[[前]](./canvas.html?012-5beg)，[[后]](./canvas.html?012-5end)
+
+RI-6 邂逅：[[前]](./canvas.html?012-6beg)，[[后]](./canvas.html?012-6end)
+
+[RI-ST-2 休息时间](./canvas.html?012-st2)
+
+RI-7 有客先来：[[前]](./canvas.html?012-7beg)，[[后]](./canvas.html?012-7end)
+
+RI-8 嘉维尔之拳：[[前]](./canvas.html?012-8beg)，[[后]](./canvas.html?012-8end)
+
+RI-9 走出密林：[[前]](./canvas.html?012-9beg)，[[后]](./canvas.html?012-9end)
+
+RI-EX-1：[[后]](./canvas.html?012-e-1end)
+
+### 刻俄柏的灰蕈迷境
+
+[引子](./canvas.html?012-entry)
+
+[结局1](./canvas.html?012-ending1)
+
+[结局2](./canvas.html?012-ending2)
+
+[结局3](./canvas.html?012-ending3)
 
 ## 主线剧情
 
