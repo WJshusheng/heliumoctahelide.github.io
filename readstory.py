@@ -691,7 +691,7 @@ for filename in os.listdir("storys\\TextAsset"):
                 #if oldimgname.count('_') == 3: 
                 #if oldimgname[-1].isdigit():
                 if "#" in oldimgname:
-                    imgname = oldimgname.replace("#","_") if not oldimgname[-3].isdigit() else oldimgname[:-3] + oldimgname[-1]
+                    imgname = oldimgname[:-3] + oldimgname[-1] if oldimgname[-3].isdigit() and oldimgname[-4] == "_" else oldimgname.replace("#","_")
                     #imgname = oldimgname if '#' not in oldimgname else oldimgname[:-3] + oldimgname[-1]
                 else:
                     imgname = oldimgname if oldimgname[-1].isdigit() else oldimgname + "_1"
@@ -703,7 +703,7 @@ for filename in os.listdir("storys\\TextAsset"):
                 #if oldimgname2.count('_') == 3:
                 #if oldimgname2[-1].isdigit():
                 if "#" in oldimgname2:
-                    imgname2 = oldimgname2.replace("#","_") if not oldimgname2[-3].isdigit() else oldimgname2[:-3] + oldimgname2[-1]
+                    imgname2 = oldimgname2[:-3] + oldimgname2[-1] if oldimgname2[-3].isdigit() and oldimgname2[-4] == "_" else oldimgname2.replace("#","_")
                     #imgname = oldimgname if '#' not in oldimgname else oldimgname[:-3] + oldimgname[-1]
                 else:
                     imgname2 = oldimgname2 if oldimgname2[-1].isdigit() else oldimgname2 + "_1"
