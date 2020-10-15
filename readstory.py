@@ -42,10 +42,21 @@ story_variables = {
   "avatar_ines" : "npc_052_ines",
   "avatar_12fce" : "char_009_12fce",
   "avatar_kalts" : "npc_003_kalts",
+  "avatar_red" : "char_144_red",
+  "avatar_snakek" : "char_150_snakek",
+  "avatar_folnic" : "char_345_folnic",
+  "avatar_lisa" : "char_358_lisa",
+  "avatar_cerber" : "char_2013_cerber",
+  "avatar_ccheal" : "char_187_ccheal",
+  "avatar_utage" : "char_337_utage",
+  "avatar_tomimi" : "char_411_tomimi",
+  "avatar_scave" : "char_149_scave",
+  "avatar_mm" : "char_133_mm",
+  "avatar_frostl" : "char_193_frostl",
+  "avatar_wyvern" : "char_240_wyvern",
+  "avatar_sophia" : "char_265_sophia",
 
-
-
-   "f_tut_black" : 0.6,
+  "f_tut_black" : 0.6,
   "f_lower_dialog_pos_x": -568,
   "f_lower_dialog_pos_y": -217,
 
@@ -109,7 +120,7 @@ story_variables = {
   "transmission" : "Sound_Beta_2/AVG/d_gen_transmission",
 
 
-  "e_imp_sword_h" : "Sound_Beta_2/Enemy/e_imp/e_imp_sword_h",
+
 
   
   "e_skill_bslimeexplo_n" : "Sound_Beta_2/Enemy/e_skill/e_skill_bslimeexplo_n",
@@ -130,8 +141,7 @@ story_variables = {
 
   "tokenset" : "Sound_Beta_2/Battle/b_char/b_char_tokenset",
   "getcast" : "Sound_Beta_2/Battle/b_char/b_char_getcast",
-  "flashback" : "Sound_Beta_2/General/g_ui/g_ui_stagepush",
-  "flashback2" : "Sound_Beta_2/General/g_ui/g_ui_stagepull",
+
   
   "e_atk_magmasnail_n" : "Sound_Beta_2/Enemy/e_atk/e_atk_magmasnail_n",
 
@@ -140,6 +150,7 @@ story_variables = {
   "e_atk_arrow_h" : "Sound_Beta_2/Enemy/e_atk/e_atk_arrow_h",
   "e_atk_blunt_n" : "Sound_Beta_2/Enemy/e_atk/e_atk_blunt_n",
   "e_atk_magic_n" : "Sound_Beta_2/Enemy/e_atk/e_atk_magic_n",
+  "e_atk_magic_m" : "Sound_Beta_2/Enemy/e_atk/e_atk_magic_m",
   "e_atk_saw_n_1" : "Sound_Beta_2/Enemy/e_atk/e_atk_saw_n_1",
   "e_atk_saw_n_2" : "Sound_Beta_2/Enemy/e_atk/e_atk_saw_n_2",
   "b_char_rockexplo" : "Sound_Beta_2/Battle/b_char/b_char_rockexplo",
@@ -330,275 +341,39 @@ story_variables = {
   "bat_patriotextra_intro" : "Sound_Beta_2/Music/act9d2d1/m_bat_patriotextra_intro",
   "bat_patriotextra_loop" : "Sound_Beta_2/Music/act9d2d1/m_bat_patriotextra_loop",
 
+  "bat_ausband_intro" : "Sound_Beta_2/Music/act12d0d0/m_bat_ausband_intro",
+  "bat_ausband_loop" : "Sound_Beta_2/Music/act12d0d0/m_bat_ausband_loop",
+  "bat_freezeassshou_intro" : "Sound_Beta_2/Music/act12d0d0/m_bat_freezeassshou_intro",
+  "bat_freezeassshou_loop" : "Sound_Beta_2/Music/act12d0d0/m_bat_freezeassshou_loop",
+
+  "bat_Imfookingback_intro" : "Sound_Beta_2/Music/act12d0d0/m_bat_Imfookingback_intro",
+  "bat_Imfookingback_loop" : "Sound_Beta_2/Music/act12d0d0/m_bat_Imfookingback_loop",
+
+  "bat_ironguy_intro" : "Sound_Beta_2/Music/act12d0d0/m_bat_ironguy_intro",
+  "bat_ironguy_loop" : "Sound_Beta_2/Music/act12d0d0/m_bat_ironguy_loop",
+  "dontmaketrouble_intro" : "Sound_Beta_2/Music/act12d0d0/m_sys_dontmaketrouble_intro",
+  "dontmaketrouble_loop" : "Sound_Beta_2/Music/act12d0d0/m_sys_dontmaketrouble_loop",
+
 
 
   "path_intro" : "Sound_Beta_2/Music/a001/m_dia_path_intro",
   "path_loop" : "Sound_Beta_2/Music/a001/m_dia_path_loop",
-}
-'''{
-  "axia_name" : "小小小天使",
-  "bg_width" : 0.5,
-  "bg_height" : 1.5,
-
-  "avatar_sys" : "system_100_mys",
-  "avatar_doberm" : "char_130_doberm",
-  "avatar_jesica" : "char_235_jesica",
-  "avatar_amiya" : "char_002_amiya",
-  "avatar_closure" : "npc_007_closure",
-  "avatar_adnach" : "char_211_adnach",
-  "avatar_ansel" : "char_212_ansel",
-  "avatar_w" : "npc_113_cqbw",
-  "avatar_fang" : "char_123_fang",
-  "avatar_beagle" : "char_122_beagle",
-  "avatar_hibisc" : "char_120_hibisc",
-  "avatar_lava" : "char_121_lava",
-  "avatar_melan" : "char_208_melan",
-  "avatar_ace" : "npc_007_ace",
-  "avatar_nearl" : "char_148_nearl",
-  "avatar_grani" : "char_220_grani",
-  "avatar_npchunt" : "npc_012_hunter",
-  "avatar_krol" : "npc_012_krol",
-  "avatar_skadi" : "char_263_skadi",
-  "avatar_angel" : "char_103_angel",
-  "avatar_moeshd" : "char_201_moeshd",
-  "avatar_mousek" : "npc_111_mousek",
-  "avatar_emperor" : "npc_105_emperor",
-  "avatar_huang" : "char_017_huang",
-  "avatar_swllow" : "char_367_swllow",
-  "avatar_frstar" : "char_1505_frstar",
-  "avatar_kroos" : "char_124_kroos",
- 
 
 
-
-   "f_tut_black" : 0.6,
-  "f_lower_dialog_pos_x": -568,
-  "f_lower_dialog_pos_y": -217,
-
-  "f_delay_single_frame": 0.02,
-  "f_delay_start_battle_btn": 0.8,
-  "f_delay_scroll_stage_on_map": 0.8,
-  "f_delay_focus_building_broom": 0.02,
-
-  "ill_amiya_normal" : "char_002_amiya_1",
-
-  "babel_intro" : "Sound_Beta_2/Music/beta1_180603/m_dia_babel_intro",
-  "babel_loop" : "Sound_Beta_2/Music/beta1_180603/m_dia_babel_loop",
-
-  "ekg_loop" : "Sound_Beta_2/Dialog/d_avg_ekg_loop",
-
-  "radio" : "Sound_Beta_2/Dialog/d_avg_radio",
-  "phone" : "Sound_Beta_2/Dialog/d_avg_phone",
-  "slideshow" : "Sound_Beta_2/Dialog/d_avg_slideshow",
-  "opendoor" : "Sound_Beta_2/Dialog/d_avg_dooropen",
-  "d_gen_walk_n" : "Sound_Beta_2/AVG/d_gen_walk_n",
-  "d_gen_explo_n" : "Sound_Beta_2/AVG/d_gen_explo_n",
-  "d_gen_thunders_amb" : "Sound_Beta_2/AVG/d_gen_thunders_amb",
-  "d_sp_chixiaobadao" : "Sound_Beta_2/AVG/d_sp_chixiaobadao",
-  "d_gen_signalbomb" : "Sound_Beta_2/AVG/d_gen_signalbomb",
-  "d_gen_surfacefrozen" : "Sound_Beta_2/AVG/d_gen_surfacefrozen",
-
-  "d_gen_soldiersrun" : "Sound_Beta_2/AVG/d_gen_soldiersrun",
-
-  "d_sp_ballista" : "Sound_Beta_2/AVG/d_sp_ballista",
-  "d_gen_dooropen" : "Sound_Beta_2/AVG/d_gen_dooropen",
-  "d_gen_doorclose" : "Sound_Beta_2/AVG/d_gen_doorclose",
-  "d_sp_amiyakilling" : "Sound_Beta_2/AVG/d_sp_amiyakilling",
-  "d_gen_transmissionget" : "Sound_Beta_2/AVG/d_gen_transmissionget",
-  "d_gen_heartbeat" : "Sound_Beta_2/AVG/d_gen_heartbeat",
-  "p_imp_arrow_h": "Sound_Beta_2/Player/p_imp/p_imp_arrow_h",
-
-
-
-  "beach" : "Sound_Beta_2/AVG/d_amb_beach",
-  "doorclosequite" : "Sound_Beta_2/AVG/d_gen_doorclosequite",
-  "doorknockquite" : "Sound_Beta_2/AVG/d_gen_doorknockquite",
-  "dooropenquite" : "Sound_Beta_2/AVG/d_gen_dooropenquite",
-  "fireworks" : "Sound_Beta_2/AVG/d_gen_fireworks",
-  "leaveshake" : "Sound_Beta_2/AVG/d_gen_leaveshake",
-  "phonevibration" : "Sound_Beta_2/AVG/d_gen_phonevibration",
-  "runsand" : "Sound_Beta_2/AVG/d_gen_runsand",
-  "smallearthquake" : "Sound_Beta_2/AVG/d_gen_smallearthquake",
-  "livecrowd" : "Sound_Beta_2/AVG/d_gen_livecrowd",
-  "blizzard" : "Sound_Beta_2/AVG/d_amb_blizzard",
-  "pistol" : "Sound_Beta_2/AVG/d_gen_pistol",
-
-	"drift" : "Sound_Beta_2/AVG/d_gen_drift",
-  "sheildimpact" : "Sound_Beta_2/AVG/d_gen_sheildimpact",
-  "bottlebroken" : "Sound_Beta_2/AVG/d_gen_bottlebroken",
-  "sportscarstart" : "Sound_Beta_2/AVG/d_gen_sportscarstart",
-  "motorbikestart" : "Sound_Beta_2/AVG/d_gen_motorbikestart",
-  "rungeneral" : "Sound_Beta_2/AVG/d_gen_rungeneral",
-  "knifegore" : "Sound_Beta_2/AVG/d_gen_knifegore",
-  "fightgeneral" : "Sound_Beta_2/AVG/d_gen_fightgeneral",
-  "transmission" : "Sound_Beta_2/AVG/d_gen_transmission",
-
-
-  "e_imp_sword_h" : "Sound_Beta_2/Enemy/e_imp/e_imp_sword_h",
-
-  "e_skill_skulsrshot" : "Sound_Beta_2/Enemy/e_skill/e_skill_skulsrshot",
-  "e_skill_skulsrexplo" : "Sound_Beta_2/Enemy/e_skill/e_skill_skulsrexplo",
-  "e_skill_skulsrsword" : "Sound_Beta_2/Enemy/e_skill/e_skill_skulsrsword",
-  "e_skill_driftsand" : "Sound_Beta_2/Enemy/e_skill/e_skill_driftsand",
-
-
-  "p_skill_chimera":"Sound_Beta_2/Player/p_skill/p_skill_chimera",
-  "p_skill_blacktimewand_shot":"Sound_Beta_2/Player/p_skill/p_skill_blacktimewand_shot",
-  "p_skill_blacktimewand":"Sound_Beta_2/Player/p_skill/p_skill_blacktimewand",
-
-  "p_skill_spiritexplo":"Sound_Beta_2/Player/p_skill/p_skill_spiritexplo",
-
-  "b_char_defboost":"Sound_Beta_2/Battle/b_char/b_char_defboost",
-
-  "tokenset" : "Sound_Beta_2/Battle/b_char/b_char_tokenset",
-  "getcast" : "Sound_Beta_2/Battle/b_char/b_char_getcast",
+  "g_card_10cardsrelease" : "Sound_Beta_2/General/g_ui/g_card_10cardsrelease",
   "flashback" : "Sound_Beta_2/General/g_ui/g_ui_stagepush",
-  "e_atk_arrow_h" : "Sound_Beta_2/Enemy/e_atk/e_atk_arrow_h",
-  "e_atk_blunt_n" : "Sound_Beta_2/Enemy/e_atk/e_atk_blunt_n",
-  "e_atk_magic_n" : "Sound_Beta_2/Enemy/e_atk/e_atk_magic_n",
-  "e_atk_saw_n_1" : "Sound_Beta_2/Enemy/e_atk/e_atk_saw_n_1",
-  "e_atk_saw_n_2" : "Sound_Beta_2/Enemy/e_atk/e_atk_saw_n_2",
-  "b_char_rockexplo" : "Sound_Beta_2/Battle/b_char/b_char_rockexplo",
-  "p_imp_amiyamag_h" : "Sound_Beta_2/Player/p_imp/p_imp_amiyamag_h",
-  "char_emp" :"Sound_Beta_2/Battle/b_char/b_char_emp",
-
-
-  "p_imp_axe_h" : "Sound_Beta_2/Player/p_imp/p_imp_axe_h",
-  "p_imp_grenade_n" : "Sound_Beta_2/Player/p_imp/p_imp_grenade_n",
-  "p_imp_amiyamag_h" : "Sound_Beta_2/Player/p_imp/p_imp_amiyamag_h",
-  "p_imp_whip_h" : "Sound_Beta_2/Player/p_imp/p_imp_whip_h",
-  "p_imp_blunt_h" : "Sound_Beta_2/Player/p_imp/p_imp_blunt_h",
-  "p_imp_sword_n" : "Sound_Beta_2/Player/p_imp/p_imp_sword_n",
-  "p_imp_tekken_h" : "Sound_Beta_2/Player/p_imp/p_imp_tekken_h",
-  "p_imp_naginata_elc" : "Sound_Beta_2/Player/p_imp/p_imp_naginata_elc",
-  "p_atk_smg_h" : "Sound_Beta_2/Player/p_atk/p_atk_smg_h",
-  "p_atk_elecball_n" : "Sound_Beta_2/Player/p_atk/p_atk_elecball_n",
-  
-
-  "mist_loop" : "Sound_Beta_2/Music/beta1_180603/m_dia_mist_loop",
-  "mist_intro" : "Sound_Beta_2/Music/beta1_180603/m_dia_mist_intro",
-
-  "calamity_intro" : "Sound_Beta_2/Music/beta2_180603/m_dia_calamity_intro",
-  "calamity_loop" : "Sound_Beta_2/Music/beta2_180603/m_dia_calamity_loop",
-
-  "escape_intro" : "Sound_Beta_2/Music/beta2_180603/m_dia_escape_intro",
-  "escape_loop" : "Sound_Beta_2/Music/beta2_180603/m_dia_escape_loop",
-  "escapebattle_intro" : "Sound_Beta_2/Music/beta2_180603/m_bat_escapebattle_intro",
-  "escapebattle_loop" : "Sound_Beta_2/Music/beta2_180603/m_bat_escapebattle_loop",
-
-  "m_bat_game02_intro" : "Sound_Beta_2/Music/beta3_181101/m_bat_game02_intro",
-  "m_bat_game02_loop" : "Sound_Beta_2/Music/beta3_181101/m_bat_game02_loop",
-
-  "normalbattle_intro" : "Sound_Beta_2/Music/beta2_180603/m_bat_normalbattle_intro",
-  "normalbattle_loop" : "Sound_Beta_2/Music/beta2_180603/m_bat_normalbattle_loop",
-  "normal01_intro" : "Sound_Beta_2/Music/beta1_180603/m_bat_normal01_intro",
-  "normal01_loop" : "Sound_Beta_2/Music/beta1_180603/m_bat_normal01_loop",
-  "normal02_intro" : "Sound_Beta_2/Music/beta1_180603/m_bat_normal02_intro",
-  "normal02_loop" : "Sound_Beta_2/Music/beta1_180603/m_bat_normal02_loop",
-  "normal03_intro" : "Sound_Beta_2/Music/beta2_180603/m_bat_normal03_intro",
-  "normal03_loop" : "Sound_Beta_2/Music/beta2_180603/m_bat_normal03_loop",
-  "m_bat_epic_intro" : "Sound_Beta_2/Music/beta1_180603/m_bat_epic_intro",
-  "m_bat_epic_loop" : "Sound_Beta_2/Music/beta1_180603/m_bat_epic_loop",
-  "longmenbat_intro" : "Sound_Beta_2/Music/beta3_181101/m_bat_longmenbat_intro",
-  "longmenbat_loop" : "Sound_Beta_2/Music/beta3_181101/m_bat_longmenbat_loop",
-  "farce_intro" : "Sound_Beta_2/Music/a001/m_dia_farce_intro",
-  "farce_loop" : "Sound_Beta_2/Music/a001/m_dia_farce_loop",
-  "bar_intro" : "Sound_Beta_2/Music/act5d0/m_avg_longmenbar_intro",
-  "bar_loop" : "Sound_Beta_2/Music/act5d0/m_avg_longmenbar_loop",
-  "darkalley_intro" : "Sound_Beta_2/Music/act5d0/m_avg_longmendarkalley_intro",
-  "darkalley_loop" : "Sound_Beta_2/Music/act5d0/m_avg_longmendarkalley_loop",
-  "marketplace_intro" : "Sound_Beta_2/Music/act5d0/m_avg_longmenmarketplace_intro",
-  "marketplace_loop" : "Sound_Beta_2/Music/act5d0/m_avg_longmenmarketplace_loop",
-  "storyendjp_intro" : "Sound_Beta_2/Music/act5d0/m_avg_storyendjp_intro",
-  "storyendjp_loop" : "Sound_Beta_2/Music/act5d0/m_avg_storyendjp_loop",
-  "chasing_intro" : "Sound_Beta_2/Music/act5d0/m_bat_chasing_intro",
-  "chasing_loop" : "Sound_Beta_2/Music/act5d0/m_bat_chasing_loop",
-  "gorgeousdebut_intro" : "Sound_Beta_2/Music/act5d0/m_bat_gorgeousdebut_intro",
-  "gorgeousdebut_loop" : "Sound_Beta_2/Music/act5d0/m_bat_gorgeousdebut_loop",
-  "kingmouse_intro" : "Sound_Beta_2/Music/act5d0/m_bat_kingmouse_intro",
-  "kingmouse_loop" : "Sound_Beta_2/Music/act5d0/m_bat_kingmouse_loop",
-  "penguinlogistics_intro" : "Sound_Beta_2/Music/act5d0/m_sys_penguinlogistics_intro",
-  "penguinlogistics_loop" : "Sound_Beta_2/Music/act5d0/m_sys_penguinlogistics_loop",
-  "speedoflight_intro" : "Sound_Beta_2/Music/act5d0/m_avg_speedoflight_intro",
-  "speedoflight_loop" : "Sound_Beta_2/Music/act5d0/m_avg_speedoflight_loop",
-
-  "longmenbatimp_intro" : "Sound_Beta_2/Music/beta3_181101/m_bat_longmenbatimp_intro",
-  "longmenbatimp_loop" : "Sound_Beta_2/Music/beta3_181101/m_bat_longmenbatimp_loop",
-  "longmenoffice_intro" : "Sound_Beta_2/Music/beta3_181101/m_bat_longmenoffice_intro",
-  "longmenoffice_loop" : "Sound_Beta_2/Music/beta3_181101/m_bat_longmenoffice_loop",
- 
-  "chernormal_intro" : "Sound_Beta_2/Music/beta2_180603/m_bat_qiecheng_intro",
-  "chernormal_loop" : "Sound_Beta_2/Music/beta2_180603/m_bat_qiecheng_loop",
-  "cherimp_intro" : "Sound_Beta_2/Music/beta2_180603/m_bat_qiechengimp_intro",
-  "cherimp_loop" : "Sound_Beta_2/Music/beta2_180603/m_bat_qiechengimp_loop",
-
-  "epic_intro" : "Sound_Beta_2/Music/beta1_180603/m_bat_epic_intro",
-  "epic_loop" : "Sound_Beta_2/Music/beta1_180603/m_bat_epic_loop",
-  "indust_intro" : "Sound_Beta_2/Music/beta1_180603/m_bat_indust_intro",
-  "indust_loop" : "Sound_Beta_2/Music/beta1_180603/m_bat_indust_loop",
-
-  "darkness01_intro" : "Sound_Beta_2/Music/beta1_180603/m_dia_darkness01_intro",
-  "darkness01_loop" : "Sound_Beta_2/Music/beta1_180603/m_dia_darkness01_loop",
-  "darkness02_intro" : "Sound_Beta_2/Music/beta1_180603/m_dia_darkness02_intro",
-  "darkness02_loop" : "Sound_Beta_2/Music/beta1_180603/m_dia_darkness02_loop",
-
-  "frostnova_intro" : "Sound_Beta_2/Music/beta2_180603/m_bat_frostnova_intro",
-  "frostnova_loop" : "Sound_Beta_2/Music/beta2_180603/m_bat_frostnova_loop",
-
-  "void_intro" : "Sound_Beta_2/Music/beta1_180603/m_sys_void_intro",
-  "void_loop" : "Sound_Beta_2/Music/beta1_180603/m_sys_void_loop",
-  "tech_intro" : "Sound_Beta_2/Music/beta2_180603/m_sys_tech_intro",
-  "tech_loop" : "Sound_Beta_2/Music/beta2_180603/m_sys_tech_loop",
-  "lab_intro" : "Sound_Beta_2/Music/beta3_181101/m_sys_lab_intro",
-  "lab_loop" : "Sound_Beta_2/Music/beta3_181101/m_sys_lab_loop",
-
-  "m_sys_science_intro" : "Sound_Beta_2/Music/beta3_181101/m_sys_science_intro",
-  "m_sys_science_loop" : "Sound_Beta_2/Music/beta3_181101/m_sys_science_loop",
-  "m_dia_street_intro" : "Sound_Beta_2/Music/beta3_181101/m_dia_street_intro",
-  "m_dia_street_loop" : "Sound_Beta_2/Music/beta3_181101/m_dia_street_loop",
-
-  "victory_intro" : "Sound_Beta_2/Music/beta1_180603/m_bat_victory_intro",
-  "victory_loop" : "Sound_Beta_2/Music/beta1_180603/m_bat_victory_loop",
-  "loading_intro" : "Sound_Beta_2/Music/beta1_180603/m_sys_loading_intro",
-  "loading_loop" : "Sound_Beta_2/Music/beta1_180603/m_sys_loading_loop",
-  "failed_intro" : "Sound_Beta_2/Music/beta1_180603/m_bat_failed_intro",
-  "failed_loop" : "Sound_Beta_2/Music/beta1_180603/m_bat_failed_loop",
-
-
-  "fesedm_intro" : "Sound_Beta_2/Music/obt/m_bat_fesedm_intro",
-  "fesedm_loop" : "Sound_Beta_2/Music/obt/m_bat_fesedm_loop",
-  "fesmetal_intro" : "Sound_Beta_2/Music/obt/m_bat_fesmetal_intro",
-  "fesmetal_loop" : "Sound_Beta_2/Music/obt/m_bat_fesmetal_loop",
-  "fesready_intro" : "Sound_Beta_2/Music/obt/m_sys_fesready_intro",
-  "fesready_loop" : "Sound_Beta_2/Music/obt/m_sys_fesready_loop",
-  "volcano_intro" : "Sound_Beta_2/Music/obt/m_bat_volcano_intro",
-  "volcano_loop" : "Sound_Beta_2/Music/obt/m_bat_volcano_loop",
-
-  "emperor_intro" : "Sound_Beta_2/Music/obt/m_sys_emperor_intro",
-  "emperor_loop" : "Sound_Beta_2/Music/obt/m_sys_emperor_loop",
-
-
-  "nightoflongmen_intro" : "Sound_Beta_2/Music/beta2_180603/m_dia_nightoflongmen_intro",
-  "nightoflongmen_loop" : "Sound_Beta_2/Music/beta2_180603/m_dia_nightoflongmen_loop",
-  "newhope01_intro" : "Sound_Beta_2/Music/beta3_181101/m_dia_newhope01_intro",
-  "newhope01_loop" : "Sound_Beta_2/Music/beta3_181101/m_dia_newhope01_loop",
-
-
-  "frostnovadie_intro" : "Sound_Beta_2/Music/static/m_avg/m_avg_frostnovadie_intro",
-  "frostnovadie_loop" : "Sound_Beta_2/Music/static/m_avg/m_avg_frostnovadie_loop",
-  "loneliness_intro" : "Sound_Beta_2/Music/static/m_avg/m_avg_loneliness_intro",
-  "loneliness_loop" : "Sound_Beta_2/Music/static/m_avg/m_avg_loneliness_loop",
-  "frostnovaevolution_intro" : "Sound_Beta_2/Music/static/m_bat/m_bat_frostnovaevolution_intro",
-  "frostnovaevolution_loop" : "Sound_Beta_2/Music/static/m_bat/m_bat_frostnovaevolution_loop",
-  "snowmonster_intro" : "Sound_Beta_2/Music/static/m_bat/m_bat_snowmonster_intro",
-  "snowmonster_loop" : "Sound_Beta_2/Music/static/m_bat/m_bat_snowmonster_loop",
-
-
-
-  "path_intro" : "Sound_Beta_2/Music/a001/m_dia_path_intro",
-  "path_loop" : "Sound_Beta_2/Music/a001/m_dia_path_loop",
+  "flashback2" : "Sound_Beta_2/General/g_ui/g_ui_stagepull",
+  "e_imp_sword_h" : "Sound_Beta_2/Enemy/e_imp/e_imp_sword_h",
+  "e_imp_katar_n" : "Sound_Beta_2/Enemy/e_imp/e_imp_katar_n",
+  "e_imp_lasersaber_n" : "Sound_Beta_2/Enemy/e_imp/e_imp_lasersaber_n",
+  "tactfulboost" : "Sound_Beta_2/Battle/b_char/b_char_tactfulboost",
+  "firemagic_explosion" : "Sound_Beta_2/Beta1LeaveOver/mixed_firemagic_explosion",
+  "icespread" : "Sound_Beta_2/Ambience/a_bat/a_bat_icespread",
+  "packagedrop" : "Sound_Beta_2/General/g_ui/g_ui_packagedrop",
+  "reinforcement" : "Sound_Beta_2/Enemy/e_imp/e_imp_reinforcement",
+  "rglk0suspective_intro" : "Sound_Beta_2/Music/act12d6d0/m_sys_rglk0suspective_intro",
+  "rglk0suspective_loop" : "Sound_Beta_2/Music/act12d6d0/m_sys_rglk0suspective_loop"
 }
-'''
 
 def get_paras(text):
     if re.findall(r'\((.*?)\)', text.replace('=', ':')) != []:
